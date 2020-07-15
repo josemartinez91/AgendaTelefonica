@@ -1,0 +1,14 @@
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\My_Agenda.exe.config
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\My_Agenda.exe
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\My_Agenda.pdb
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.csprojAssemblyReference.cache
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.Principal.resources
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.Properties.Resources.resources
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.csproj.GenerateResource.cache
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.csproj.CoreCompileInputs.cache
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.exe
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.pdb
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\System.Data.SQLite.dll
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\System.Data.SQLite.xml
+F:\POO Infotep\My_Agenda\My_Agenda\bin\Debug\System.Data.SQLite.dll.config
+F:\POO Infotep\My_Agenda\My_Agenda\obj\Debug\My_Agenda.csproj.CopyComplete
